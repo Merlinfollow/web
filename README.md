@@ -7,9 +7,10 @@
  * @Description: 前端面试
 -->
 
-BEGIN: 你好，我是初面的面试官，请问你是xxx是吧,现在方便面试吗？请先做下自我介绍。
+<font size=5 color=#FFFF00>BEGIN:</font> 你好，我是初面的面试官，请问你是xxx是吧,现在方便面试吗？请先做下自我介绍。
 </br>
-html面试题：
+
+<font size=5 color=#FFFF00>html面试题：</font>
 
 1.html5新特性有哪些？
 
@@ -18,7 +19,8 @@ html面试题：
 3.HTML5的文件离线储存怎么使用，工作原理是什么？
 
 </br>
-css面试题：
+
+<font size=5 color=#FFFF00>css面试题：</font>
 
 1.水平垂直居中的方法有哪些？
 
@@ -37,7 +39,7 @@ css面试题：
 </br>
 
 
-js面试题：
+<font size=5 color=#FFFF00>js面试题：</font>
 
 1.说说你对js的理解？js的事件循环机制是什么？
 
@@ -67,7 +69,8 @@ js面试题：
 
 </br>
 
-es6面试题：
+<font size=5 color=#FFFF00>es6面试题：</font>
+
 1.常用的es6有哪些？
 
 2.如何实现等前面的两个异步函数执行之后再执行第三个异步函数？
@@ -90,7 +93,7 @@ es6面试题：
 
 </br>
 
-http,浏览器面试题：
+<font size=5 color=#FFFF00>http,浏览器面试题：</font>
 
 1.http和https的区别是什么？
 
@@ -107,7 +110,8 @@ http,浏览器面试题：
 7.为什么会出现跨域？怎样解决跨域问题？
 
 </br>
-webpack面试题：
+
+<font size=5 color=#FFFF00>webpack面试题：</font>
 
 1.vue-cli帮我们做了哪些东西？
 
@@ -120,7 +124,8 @@ webpack面试题：
 5.测试环境和生产环境打包出来有什么不同？
 
 </br>
-vue面试题:
+
+<font size=5 color=#FFFF00>vue面试题:</font>
 
 1.vue的生命周期有哪些？开启，清除定时器分别在哪个生命周期上进行?
 
@@ -142,7 +147,7 @@ vue面试题:
 
 </br>
 
-react面试题：
+<font size=5 color=#FFFF00>react面试题：</font>
 
 1.setState是同步还是异步？为什么？
 
@@ -156,7 +161,7 @@ react面试题：
 
 </br>
 
-项目面试题：
+<font size=5 color=#FFFF00>项目面试题：</font>
 
 1.项目中遇到了什么难题？是如何进行解决的？
 
