@@ -7,7 +7,7 @@
  * @Description: 前端面试
 -->
 
-<font size=5 color=#FFFF00>BEGIN:</font> 你好，我是初面的面试官，请问你是xxx是吧,现在方便面试吗？请先做下自我介绍。
+<font size=7 color=#FF7F00>**BEGIN:**</font> 你好，我是初面的面试官，请问你是xxx是吧,现在方便面试吗？请先做下自我介绍。
 </br>
 
 <font size=5 color=#FFFF00>html面试题：</font>
@@ -20,7 +20,7 @@
 
 </br>
 
-<font size=5 color=#FFFF00>css面试题：</font>
+<font size=10 color=#FFFF00>css面试题：</font>
 
 1.水平垂直居中的方法有哪些？
 
